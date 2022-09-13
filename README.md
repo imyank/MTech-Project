@@ -24,7 +24,7 @@ A stock price follows some periodic patterns so it is important to cover the tem
 
 Since the stock prices are not standardized so the errors are not in range 0-1
 
-[![Screenshot-2022-09-13-at-9-52-36-PM.png](https://i.postimg.cc/L85NJMXM/Screenshot-2022-09-13-at-9-52-36-PM.png)](https://postimg.cc/LJdzWwLy)
+[![Screenshot-2022-09-13-at-9-55-44-PM.png](https://i.postimg.cc/2yH9tj62/Screenshot-2022-09-13-at-9-55-44-PM.png)](https://postimg.cc/8f6bJSL6)
 
 
 
