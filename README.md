@@ -21,9 +21,10 @@ The data has been down- loaded using yfinance library. This library directly dow
 A stock price follows some periodic patterns so it is important to cover the temporal effect for prediction. Time2vector concept has been leveraged to provide this effect with Transformer model. The time is divided in two parts: periodic and non-perodic(or linear component).
 
 ## Findings
+
 Since the stock prices are not standardized so the errors are not in range 0-1
 
-[![Screenshot-2022-09-13-at-9-21-50-PM.png](https://i.postimg.cc/52FhGvMG/Screenshot-2022-09-13-at-9-21-50-PM.png)](https://postimg.cc/4Ys2HYyb)
+[![Screenshot-2022-09-13-at-9-52-36-PM.png](https://i.postimg.cc/L85NJMXM/Screenshot-2022-09-13-at-9-52-36-PM.png)](https://postimg.cc/LJdzWwLy)
 
 
 
