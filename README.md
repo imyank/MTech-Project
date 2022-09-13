@@ -28,4 +28,4 @@ Since the stock prices are not standardized so the errors are not in range 0-1
 
 
 
-## For more details check out the thesis report
+## For more details check out the thesis report and code
